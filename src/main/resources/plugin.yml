@@ -1,0 +1,6 @@
+name: FactionsTab
+version: ${project.version}
+author: Mas281
+
+depend: [Factions]
+main: me.itsmas.tab.FactionsTab

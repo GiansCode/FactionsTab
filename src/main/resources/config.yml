@@ -1,0 +1,9 @@
+relations:
+  member: "&a"
+  neutral: "&r"
+  ally: "&2"
+  enemy: "&c"
+
+staff:
+  permission: "factionstab.staff"
+  injector: "&l"
